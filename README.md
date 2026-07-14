@@ -26,7 +26,7 @@ This repository documents my progress as I learn Python from the fundamentals to
 
 ## 📅 Progress
 
-- [x] Python Basics
+- [ ] Python Basics
 - [ ] Data Structures
 - [ ] Functions
 - [ ] Object-Oriented Programming
