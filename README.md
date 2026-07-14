@@ -1,27 +1,43 @@
-# Python Learning Journey
+# 🐍 Python Learning Journey
 
 Welcome to my Python learning journey.
 
-This repository documents my progress from Python fundamentals to advanced concepts, with the ultimate goal of becoming an AI Engineer.
+This repository documents my progress as I learn Python from the fundamentals to more advanced concepts, with the long-term goal of becoming an AI Engineer.
 
-## Goals
+## 🎯 Goals
 
 - Learn Python fundamentals
-- Build problem-solving skills
+- Improve problem-solving skills
+- Build a strong programming foundation
 - Prepare for Machine Learning
 - Prepare for Deep Learning
-- Build a strong GitHub portfolio
+- Build a professional GitHub portfolio
 
-## Roadmap
+## 📚 Roadmap
 
 - Python Basics
+- Data Structures
 - Functions
 - Object-Oriented Programming
-- Modules
-- Error Handling
+- Modules & Packages
+- Exception Handling
 - File Handling
 - Advanced Python
 
-## Author
+## 📅 Progress
 
-Erfan Nemati
+- [ ] Python Basics
+- [ ] Data Structures
+- [ ] Functions
+- [ ] Object-Oriented Programming
+- [ ] Modules
+- [ ] File Handling
+- [ ] Advanced Python
+
+## 👨‍💻 Author
+
+**Erfan Nemati**
+
+Computer Systems Engineer
+
+Future AI Engineer 🇩🇪
