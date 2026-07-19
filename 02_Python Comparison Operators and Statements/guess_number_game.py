@@ -10,6 +10,7 @@ print("=======================================================")
 
 print("RULES:")
 print("The Goal is between 1 to 100")
+print()
 
 entry = 0
 guess_list = []
