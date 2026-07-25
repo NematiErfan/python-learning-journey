@@ -92,6 +92,7 @@ This project helped me understand the importance of:
 ```text
 Hello. My name is Erfan and 35 years old. What is your name?
 
+---
 ## Author
 
 Erfan Nemati
