@@ -175,6 +175,7 @@ This project helped me understand the importance of:
 ## Author
 
 Erfan Nemati
+
 ---
 
 ## Example
@@ -183,20 +184,3 @@ Erfan Nemati
 
 ```text
 Hello. My name is Erfan and 35 years old. What is your name?
-
----
-
-## Author
-
-Erfan Nemati
-
-## Example
-
-### Input
-
-```text
-Hello. My name is Erfan and 35 years old. What is your name?
-
----
-```markdown
-## Author
