@@ -116,20 +116,22 @@ Erfan Nemati
     Choose X or O: X
 
     Choose a position from 1 to 9: 7
-
+    
     Choose a position from 1 to 9: 5
-
-    Choose a position from 1 to 9: 9
-
+    
+    Choose a position from 1 to 9: 8
+    
     Choose a position from 1 to 9: 1
-
+    
+    Choose a position from 1 to 9: 9
+    
 ### Output
 
     =============
     Enjoy XO Game
     =============
 
-     X |   | X
+     X | X | X
     -----------
        | O |
     -----------
